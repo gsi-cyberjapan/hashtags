@@ -10,52 +10,52 @@
 
 相互に関係が深いレポジトリがあるため、ハッシュタグはいくつかのレポジトリに共通なものとしたいと考えています。
 
-# #gsimaps 地理院地図関係
+## #gsimaps 地理院地図関係
 ハッシュタグ #gsimaps を、次のレポジトリに適用したいと思います。
 
 - https://github.com/gsi-cyberapan/gsimaps
 
-# #gsi-vector-tiles ベクトルタイル関係
+## #gsi-vector-tiles ベクトルタイル関係
 ハッシュタグ #gsi-vector-tiles を、次のレポジトリに適用したいと思います。
 
 - https://github.com/gsi-cyberjapan/vector-tile-experiment
 - https://github.com/gsi-cyberjapan/experimental_fgd
 - https://github.com/gsi-cyberjapan/experimental_dem
 
-# #layers-dot-txt レイヤメタデータ関係
+## #layers-dot-txt レイヤメタデータ関係
 ハッシュタグ #layers-dot-txt を、次のレポジトリに適用したいと思います。
 
 - https://github.com/gsi-cyberapan/layers-dot-txt-spec
 
-# #geojson-with-style スタイル付きGeoJSON関係
+## #geojson-with-style スタイル付きGeoJSON関係
 ハッシュタグ #geojson-with-style を、次のレポジトリに適用したいと思います。
 
 - https://github.com/gsi-cyberapan/geojson-with-style-spec
 
-# #style-dot-js GeoJSON タイル用スタイル定義関係
+## #style-dot-js GeoJSON タイル用スタイル定義関係
 ハッシュタグ #style-dot-js を、次のレポジトリに適用したいと思います。
 
 - https://github.com/gsi-cyberjapan/style-dot-js-spec
 
-# #gsi-mokuroku 地理院タイル目録関係
+## #gsi-mokuroku 地理院タイル目録関係
 ハッシュタグ #gsi-mokuroku を、次のレポジトリに適用したいと思います。
 
 - https://github.com/gsi-cyberjapan/mokuroku-spec
 - https://github.com/gsi-cyberjapan/mokuroku-generator
 
-# #gsi-cocotile ココタイル関係
+## #gsi-cocotile ココタイル関係
 ハッシュタグ #gsi-cocotile を、次のレポジトリに適用したいと思います。
 
 - https://github.com/gsi-cyberapan/cocotile-spec
 - https://github.com/gsi-cyberapan/cocotile-mokuroku2csv （一時的プロジェクト）
 - https://github.com/gsi-cyberapan/cocotile-mkmokuroku （一時的プロジェクト）
 
-# #gsi-elevation 標高関係
+## #gsi-elevation 標高関係
 ハッシュタグ #gsi-elevation を、次のレポジトリに適用したいと思います。
 
 - https://github.com/gsi-cyberjapan/elevation-php
 
-# #gsi-ckan CKAN関係
+## #gsi-ckan CKAN関係
 ハッシュタグ #gsi-ckan を、次のレポジトリに適用したいと思います。
 
 - https://github.com/gsi-cyberjapan/jmp2ckan
