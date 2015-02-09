@@ -54,7 +54,7 @@
 ハッシュタグ #gsi-elevation を、次のレポジトリに適用したいと思います。
 
 - https://github.com/gsi-cyberjapan/elevation-php
--
+
 # #gsi-ckan CKAN関係
 ハッシュタグ #gsi-ckan を、次のレポジトリに適用したいと思います。
 
