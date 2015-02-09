@@ -13,7 +13,7 @@
 ## #gsimaps 地理院地図関係
 ハッシュタグ #gsimaps を、次のレポジトリに適用したいと思います。
 
-- https://github.com/gsi-cyberapan/gsimaps
+- https://github.com/gsi-cyberjapan/gsimaps
 
 ### Twitterでの言及確認用URL
 https://twitter.com/hashtag/gsimaps
