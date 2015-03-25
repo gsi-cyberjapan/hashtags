@@ -18,75 +18,76 @@
 ### Twitterでの言及確認用URL
 https://twitter.com/hashtag/gsimaps
 
-## #gsi-vector-tiles ベクトルタイル関係
-ハッシュタグ #gsi-vector-tiles を、次のレポジトリに適用したいと思います。
+## #gsivt ベクトルタイル関係
+ハッシュタグ #gsivt を、次のレポジトリに適用したいと思います。
 
 - https://github.com/gsi-cyberjapan/vector-tile-experiment
 - https://github.com/gsi-cyberjapan/experimental_fgd
 - https://github.com/gsi-cyberjapan/experimental_dem
 
 ### Twitterでの言及確認用URL
-https://twitter.com/hashtag/gsi-vector-tiles
+https://twitter.com/hashtag/gsivt
 
-## #layers-dot-txt レイヤメタデータ関係
-ハッシュタグ #layers-dot-txt を、次のレポジトリに適用したいと思います。
+## #layerstxt レイヤメタデータ関係
+ハッシュタグ #layerstxt を、次のレポジトリに適用したいと思います。
 
 - https://github.com/gsi-cyberapan/layers-dot-txt-spec
 
 ### Twitterでの言及確認用URL
-https://twitter.com/hashtag/layers-dot-txt
+https://twitter.com/hashtag/layerstxt
 
-## #geojson-with-style スタイル付きGeoJSON関係
-ハッシュタグ #geojson-with-style を、次のレポジトリに適用したいと思います。
+## #geojsonws スタイル付きGeoJSON関係
+ハッシュタグ #geojsonws を、次のレポジトリに適用したいと思います。
 
 - https://github.com/gsi-cyberapan/geojson-with-style-spec
 
 ### Twitterでの言及確認用URL
-https://twitter.com/hashtag/geojson-with-style
+https://twitter.com/hashtag/geojsonws
 
-## #style-dot-js GeoJSON タイル用スタイル定義関係
-ハッシュタグ #style-dot-js を、次のレポジトリに適用したいと思います。
+## #stylejs GeoJSON タイル用スタイル定義関係
+ハッシュタグ #stylejs を、次のレポジトリに適用したいと思います。
 
 - https://github.com/gsi-cyberjapan/style-dot-js-spec
 
 ### Twitterでの言及確認用URL
-https://twitter.com/hashtag/style-dot-js
+https://twitter.com/hashtag/stylejs
 
-## #gsi-mokuroku 地理院タイル目録関係
-ハッシュタグ #gsi-mokuroku を、次のレポジトリに適用したいと思います。
+## #gsimokuroku 地理院タイル目録関係
+ハッシュタグ #gsimokuroku を、次のレポジトリに適用したいと思います。
 
 - https://github.com/gsi-cyberjapan/mokuroku-spec
 - https://github.com/gsi-cyberjapan/mokuroku-generator
 
 ### Twitterでの言及確認用URL
-https://twitter.com/hashtag/gsi-mokuroku
+https://twitter.com/hashtag/gsimokuroku
 
-## #gsi-cocotile ココタイル関係
-ハッシュタグ #gsi-cocotile を、次のレポジトリに適用したいと思います。
+## #gsicocotile ココタイル関係
+ハッシュタグ #gsicocotile を、次のレポジトリに適用したいと思います。
 
 - https://github.com/gsi-cyberapan/cocotile-spec
 - https://github.com/gsi-cyberapan/cocotile-mokuroku2csv （一時的プロジェクト）
 - https://github.com/gsi-cyberapan/cocotile-mkmokuroku （一時的プロジェクト）
 
 ### Twitterでの言及確認用URL
-https://twitter.com/hashtag/gsi-cocotile
+https://twitter.com/hashtag/gsicocotile
 
-## #gsi-elevation 標高関係
-ハッシュタグ #gsi-elevation を、次のレポジトリに適用したいと思います。
+## #gsielevation 標高関係
+ハッシュタグ #gsielevation を、次のレポジトリに適用したいと思います。
 
 - https://github.com/gsi-cyberjapan/elevation-php
 
 ### Twitterでの言及確認用URL
-https://twitter.com/hashtag/gsi-elevation
+https://twitter.com/hashtag/gsielevation
 
-## #gsi-ckan CKAN関係
+## #gsickan CKAN関係
 ハッシュタグ #gsi-ckan を、次のレポジトリに適用したいと思います。
 
 - https://github.com/gsi-cyberjapan/jmp2ckan
 - https://github.com/gsi-cyberjapan/ckanext-basemaps
 
 ### Twitterでの言及確認用URL
-https://twitter.com/hashtag/gsi-ckan
+https://twitter.com/hashtag/gsickan
 
 # 修正履歴
 2015-02-09 提案開始
+2015-03-25 修正
