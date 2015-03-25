@@ -24,6 +24,8 @@ https://twitter.com/hashtag/gsimaps
 - https://github.com/gsi-cyberjapan/vector-tile-experiment
 - https://github.com/gsi-cyberjapan/experimental_fgd
 - https://github.com/gsi-cyberjapan/experimental_dem
+- https://github.com/gsi-cyberjapan/experimental_cp
+- https://github.com/gsi-cyberjapan/experimental_pp
 
 ### Twitterでの言及確認用URL
 https://twitter.com/hashtag/gsivt
