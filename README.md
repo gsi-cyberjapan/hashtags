@@ -82,7 +82,7 @@ https://twitter.com/hashtag/gsicocotile
 https://twitter.com/hashtag/gsielevation
 
 ## #gsickan CKAN関係
-ハッシュタグ #gsi-ckan を、次のレポジトリに適用したいと思います。
+ハッシュタグ #gsickan を、次のレポジトリに適用したいと思います。
 
 - https://github.com/gsi-cyberjapan/jmp2ckan
 - https://github.com/gsi-cyberjapan/ckanext-basemaps
