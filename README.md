@@ -26,6 +26,7 @@ https://twitter.com/hashtag/gsimaps
 - https://github.com/gsi-cyberjapan/experimental_dem
 - https://github.com/gsi-cyberjapan/experimental_cp
 - https://github.com/gsi-cyberjapan/experimental_pp
+- https://github.com/gsi-cyberjapan/experimental_zk25000
 
 ### Twitterでの言及確認用URL
 https://twitter.com/hashtag/gsivt
